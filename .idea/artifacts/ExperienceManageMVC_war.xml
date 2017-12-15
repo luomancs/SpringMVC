@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="ExperienceManageMVC:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExperienceManageMVC_war</output-path>
+    <root id="archive" name="ExperienceManageMVC_war.war">
+      <element id="artifact" artifact-name="SoringMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
